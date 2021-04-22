@@ -1,0 +1,13 @@
+{
+  "name": "DatabaseManager",
+  "version": "1.0-SNAPSHOT",
+  "description": "Basic database manager app using Express and Mongoose. Made for learning purposes.",
+  "main": "server.js",
+  "repository": "https://github.com/fincheraidan00/database-manager.git",
+  "author": "Aidan Fincher",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
